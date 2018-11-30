@@ -1,0 +1,29 @@
+a:link, a:visited, a:hover, a:active {
+    color: #ff7de9;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    margin-bottom: 30px;
+}
+
+.card__service__subtitle{
+    margin-bottom: 15px;
+}
+
+.card__description{
+    text-align: justify;
+    font-size: 14px;
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.card__more{
+    text-decoration: none;
+
+    color: #ff7de9;
+    font-size: 14px;
+}

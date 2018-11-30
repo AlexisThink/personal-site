@@ -1,0 +1,11 @@
+.main{
+    height: 100%;
+
+    padding-top: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+
+    color: white;
+    background-color: #373c67;
+}
