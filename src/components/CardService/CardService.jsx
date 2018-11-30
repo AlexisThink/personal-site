@@ -16,7 +16,7 @@ class CardService extends Component{
                     <p>{this.props.description}</p>
                 </div>
                 <div className='card__more'>
-                    <Link to={this.props.link}>Learn more</Link>
+                    <Link to={this.props.link}>Saber más</Link>
                 </div>
             </div>
         )
