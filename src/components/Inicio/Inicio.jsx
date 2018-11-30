@@ -9,7 +9,7 @@ import services from '../../data/services'
 
 class Inicio extends Component{
     render(){
-        const professions = ['Marcadologo', 'Desarrollador Web Fullstack', 'Desarrollador de Android']
+        const professions = ['Marcadologo', 'Desarrollador Web Fullstack', 'Desarrollador Android']
         return(
             <section>
                 <div className='main__title'>
